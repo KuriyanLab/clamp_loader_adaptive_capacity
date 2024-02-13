@@ -1,1 +1,2 @@
-test
+
+kallisto index -i chim_AAA_poolA 1_kallisto_index_chim_AAA_poolA.fasta 
